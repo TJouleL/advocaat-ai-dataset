@@ -1,0 +1,102 @@
+{
+  "AVG - BWBR0040940-geldend_van_01-07-2021_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": true,
+    "q_count": 1
+  },
+  "Alcoholwet - BWBR0002458-geldend_van_12-02-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": true,
+    "q_count": 2
+  },
+  "Algemene wet bestuursrecht - BWBR0005537-geldend_van_01-07-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": false,
+    "q_count": 0
+  },
+  "Burgelijk wetboek boek 8 - BWBR0005034-geldend_van_01-07-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": false,
+    "q_count": 0
+  },
+  "Burgerlijk Wetboek Boek 1 - BWBR0002656-geldend_van_05-07-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": false,
+    "q_count": 0
+  },
+  "Burgerlijk Wetboek Boek 10 - BWBR0030068-geldend_van_01-07-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": false,
+    "q_count": 0
+  },
+  "Burgerlijk Wetboek Boek 2 - BWBR0003045-geldend_van_01-01-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": false,
+    "q_count": 0
+  },
+  "Burgerlijk Wetboek Boek 3 - BWBR0005291-geldend_van_01-07-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": false,
+    "q_count": 0
+  },
+  "Burgerlijk Wetboek Boek 4 - BWBR0002761-geldend_van_01-07-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": false,
+    "q_count": 0
+  },
+  "Burgerlijk Wetboek Boek 5 - BWBR0005288-geldend_van_01-01-2024_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": false,
+    "q_count": 0
+  },
+  "Burgerlijk Wetboek Boek 6 - BWBR0005289-geldend_van_01-07-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": false,
+    "q_count": 0
+  },
+  "Burgerlijk Wetboek Boek 7 - BWBR0005290-geldend_van_01-07-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": false,
+    "q_count": 0
+  },
+  "Burgerlijk Wetboek Boek 7A - BWBR0006000-geldend_van_01-07-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": false,
+    "q_count": 0
+  },
+  "Geneesmiddelenwet - BWBR0021505-geldend_van_05-07-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": false,
+    "q_count": 0
+  },
+  "Grondwet - BWBR0001840-geldend_van_22-02-2023_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": true,
+    "q_count": 2
+  },
+  "Opiumwet - BWBR0001941-geldend_van_01-07-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": false,
+    "q_count": 1
+  },
+  "Telecommunicatiewet - BWBR0009950-geldend_van_01-07-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": true,
+    "q_count": 1
+  },
+  "Wet milieubeheer - BWBR0003245-geldend_van_01-01-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": false,
+    "q_count": 0
+  },
+  "Wet op de economische delicten - BWBR0002063-geldend_van_01-07-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": false,
+    "q_count": 0
+  },
+  "Wet op de inlichtingen- en veiligheidsdiensten 2017 - BWBR0039896-geldend_van_12-02-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": false,
+    "q_count": 1
+  },
+  "Wet politiegegevens - BWBR0022463-geldend_van_01-07-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": false,
+    "q_count": 1
+  },
+  "Wet wapens en munitie - BWBR0008804-geldend_van_01-07-2024_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": true,
+    "q_count": 1
+  },
+  "Wetboek van Burgerlijke Rechtsvordering - BWBR0001827-geldend_van_01-07-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": false,
+    "q_count": 1
+  },
+  "Wetboek van Strafrecht - BWBR0001854-geldend_van_01-07-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": true,
+    "q_count": 3
+  },
+  "Wetboek van Strafvordering - BWBR0001903-geldend_van_01-07-2025_tm_heden_zichtdatum_19-07-2025.txt": {
+    "generate": true,
+    "q_count": 1
+  }
+}
