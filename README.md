@@ -3,7 +3,7 @@
 
 
 
-### Deze dataset bestaat uit een vragen / antwoorden format (sharegpt) waarmee a.i getrained of gefinetuned kan worden. Deze dataset bestaat uit basisvragen (computer gegenereerd) zoals "wat staat er exact in artikel x van wetboek y" maar ook vragen en antwoorden gegenereerd door het gemma 3 12b model van google. De wetten in de dataset zijn op 19-07-2025 gedownload en tot aan toen nog geldig. Het zou dus kunnen dat er aanpassingen zijn aan de wetten in de tussentijd. Deze dataset bestaat uit alle artikelen van :
+### Deze dataset bestaat uit een vragen / antwoorden format (sharegpt) waarmee a.i getrained of gefinetuned kan worden. Deze dataset bestaat uit basisvragen (computer gegenereerd) zoals "wat staat er exact in artikel x van wetboek y" maar ook vragen en antwoorden gegenereerd door het gemma 3 12b model van google. De wetten in de dataset zijn op 19-07-2025 gedownload en tot aan toen nog geldig. Het zou dus kunnen dat er aanpassingen zijn aan de wetten in de tussentijd. Deze dataset bestaat uit onder andere alle artikelen van :
 
 - de AVG wet
 - de alcohol wet
@@ -12,6 +12,8 @@
 - de wet wapens en munitie
 - Wetboek van strafrecht
 - Wetboek van strafvordering
+
+En nog een paar andere wetten die geen extra a.i vragen hebben. Om de volledige preciese inhoud te zien van de dataset kun je kijken in preferences.json waar ook de hoeveelheid a.i vragen per artikel staan. Alle artikelen zijn sowieso benoemd en hun individuele leden ook. Alleen niet met a.i omdat er dan ongeveer 27 000 aanvragen met een bizarre hoeveelheid aan tokens zouden aangevraagd moeten worden.
 
 Alle data komt rechtstreeks vanuit https://wetten.overheid.nl
 
